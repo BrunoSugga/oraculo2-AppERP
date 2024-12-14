@@ -1,0 +1,6 @@
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ORACULO\oraculo2\AppERP\obj\Debug\net5.0\AppERP.MvcApplicationPartsAssemblyInfo.cache

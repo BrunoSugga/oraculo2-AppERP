@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "HJo3hxafUO0GtJXL7OfRx9/aX3bZcYBgflScE93uF60=",
+  "Source": "AppERP",
+  "BasePath": "_content/AppERP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppERP\\wwwroot",
+      "Source": "AppERP",
+      "ContentRoot": "C:\\Users\\bruno\\Desktop\\ORACULO\\oraculo2\\AppERP\\wwwroot\\",
+      "BasePath": "_content/AppERP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
